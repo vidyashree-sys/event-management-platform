@@ -3,8 +3,7 @@
 A sleek, modern web platform to **create**, **manage**, and **RSVP** to events — built with **React**, **Firebase**, and **Tailwind CSS**.
 
 ## 🚀 Live Demo
-[🌐 View Project Live](https://your-live-url.com)  
-*(Replace this with your actual deployed URL, or write "Coming soon...")*
+[🌐 View Project Live](Coming soon..)  
 
 ---
 
@@ -28,16 +27,11 @@ A sleek, modern web platform to **create**, **manage**, and **RSVP** to events �
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your app here (UI pages, RSVP toggle, Admin View Attendees modal, etc.)
-
----
 
 ## 👤 Author
 
-**Vikas Kumar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/vikas-kumar-2004/)  
+**Vikas Chavan**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vikas-chavan-55b1b8365/)  
 📫 Email: vikas2004dec@gmail.com
 
 ---

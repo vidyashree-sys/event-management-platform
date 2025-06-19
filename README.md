@@ -18,6 +18,12 @@ A sleek, modern web platform to **create**, **manage**, and **RSVP** to events �
 ✅ Fully responsive and mobile-friendly  
 
 ---
+![Screenshot 2025-06-19 122212](https://github.com/user-attachments/assets/9578e661-1ddc-4f1c-8cf6-0c11bd37fa4c)
+![Screenshot 2025-06-19 122318](https://github.com/user-attachments/assets/2bc17f53-37d8-436c-8ef4-5f28fdf3c7ee)
+![Screenshot 2025-06-19 122404](https://github.com/user-attachments/assets/7c7d1d91-5ff6-4d91-b7e2-c11c3f982da9)
+![Screenshot 2025-06-19 122418](https://github.com/user-attachments/assets/0f1c03d5-cca6-4bc1-8946-46a85466eb90)
+![Screenshot 2025-06-19 122521](https://github.com/user-attachments/assets/becf71e5-ce0c-4515-bb47-463537aeb43e)
+
 
 ## 🛠️ Tech Stack
 

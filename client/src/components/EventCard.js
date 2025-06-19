@@ -124,13 +124,9 @@ const EventCard = ({ event, onEdit, onDelete }) => {
           </button>
         )}
 
-      {user && !loading && (
+    {user && !loading && (
   <button
-    onClick={() =>
-      rsvpEvent(event.id, user.uid, user.email, user.displayName || "User")
-        .then(() => setIsRsvped(true))
-        .catch(console.error)
-    }
+    onClick={handleRsvp}
     className={`${
       isRsvped
         ? "bg-gray-200 text-gray-800 hover:bg-gray-300"
@@ -140,6 +136,7 @@ const EventCard = ({ event, onEdit, onDelete }) => {
     {isRsvped ? "✅ RSVP'd (Cancel)" : "📩 RSVP"}
   </button>
 )}
+
         {(claims?.role === "admin" || claims?.role === "clubMember") && (
           <button
             onClick={() => setShowRsvpList(true)}

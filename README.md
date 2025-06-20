@@ -36,9 +36,7 @@ A sleek, modern web platform to **create**, **manage**, and **RSVP** to events �
 
 ## 👤 Author
 
-**Vikas Chavan**  
-🔗 [LinkedIn](https://www.linkedin.com/in/vikas-chavan-55b1b8365/)  
-📫 Email: vikas2004dec@gmail.com
+
 
 ---
 

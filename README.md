@@ -29,15 +29,8 @@ A sleek, modern web platform to **create**, **manage**, and **RSVP** to events �
 
 - **Frontend**: React, Tailwind CSS  
 - **Backend**: Firebase (Auth + Firestore + Hosting)  
-- **Deployment**: GitHub Pages / Firebase Hosting  
-
----
-
-
-## 👤 Author
-
-
-
+- **Deployment**: GitHub Pages / Firebase Hosting
+  
 ---
 
 ## 💡 Future Ideas
